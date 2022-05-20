@@ -1,7 +1,7 @@
 # Lector-de-Huellas-para-Moto
 Sistema de lector de huella para encendido de moto, codigo, diseño, electronica
 
-##Materiales
+>Materiales
 
 - Sensor de huella dactilar optico
 - Arduino uno
